@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\__DEVELOP__\____DxLibDotNet\DxLibDotNet3_22c\DxLibDotNet\DxDLL.cs">
-      <Link>DxDLL.cs</Link>
-    </Compile>
     <Compile Include="..\DX2DSound\DX2DSound.cs">
       <Link>DX2DSound.cs</Link>
+    </Compile>
+    <Compile Include="..\DX2DSound\DxDLL.cs">
+      <Link>DxDLL.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

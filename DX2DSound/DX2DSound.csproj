@@ -42,10 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\__DEVELOP__\____DxLibDotNet\DxLibDotNet3_22c\DxLibDotNet\DxDLL.cs">
-      <Link>DxDLL.cs</Link>
-    </Compile>
     <Compile Include="DX2DSound.cs" />
+    <Compile Include="DxDLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
