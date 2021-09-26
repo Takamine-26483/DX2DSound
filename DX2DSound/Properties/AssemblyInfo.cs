@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 制御されます。アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("DX2DSoundManager")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("DXライブラリのSoundMem系をまとめたクラスです。音量ミキサーなどを実装しています。")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DX2DSoundManager")]
