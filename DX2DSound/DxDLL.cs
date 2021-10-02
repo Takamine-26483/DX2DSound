@@ -1,7 +1,7 @@
 using System.Runtime.InteropServices;
 namespace DxLibDLL
 {
-	public static class DX
+	internal static class DX
 	{
 		public const int TRUE  = 1;
 		public const int FALSE = 0;
